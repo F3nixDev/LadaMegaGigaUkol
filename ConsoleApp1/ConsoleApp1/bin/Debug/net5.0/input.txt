@@ -1,0 +1,6 @@
+1;C15;Monster;45;15;true
+2;A10;Pepsi Max 1l;25;0;false
+3;A10;Pepsi Max 0.5 l;25;3;true
+4;B12;Bageta Šunka;35;5;true
+5;B14;Bageta Vege;32;10;true
+6;C16;Pringles;50;0;false 
